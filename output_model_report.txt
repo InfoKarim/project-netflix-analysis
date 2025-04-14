@@ -1,0 +1,16 @@
+Accuracy: 0.9994
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       Movie       1.00      1.00      1.00      1195
+     TV Show       1.00      1.00      1.00       566
+
+    accuracy                           1.00      1761
+   macro avg       1.00      1.00      1.00      1761
+weighted avg       1.00      1.00      1.00      1761
+
+
+Confusion Matrix:
+[[1194    1]
+ [   0  566]]
