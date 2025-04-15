@@ -58,5 +58,5 @@ project-netflix-analysis/
 
 ## 📬 Contact
 Karim Elsayed  
-📧 info.karimelsayed@gmail.com  
+📧info.karimelsayed@gmail.com  
 🔗 [GitHub](https://github.com/InfoKarim)
